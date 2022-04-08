@@ -6,5 +6,5 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface taskRepository extends CrudRepository<Task, Long> {
 
-	//Interfaz que nos permite utilizar métodos de CrudRepository
+	//Interfaz que nos permite utilizar métodos de CrudRepository  
 }
